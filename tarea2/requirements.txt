@@ -1,0 +1,7 @@
+jupyter
+pandas==1.0.3
+textblob==0.15.3
+stop-words==2018.7.23
+wordcloud==1.6.0
+spanish-sentiment-analysis==1.0.0
+seaborn==0.10.1

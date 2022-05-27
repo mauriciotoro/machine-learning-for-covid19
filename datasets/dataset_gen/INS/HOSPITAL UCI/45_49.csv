@@ -1,0 +1,7 @@
+fecha de notificacion,codigo_divipola,ciudad,departamento,atencion,edad,sexo,tipo,estado,pais de procedencia,fis,fecha_de_muerte,Fecha de diagnóstico,fecha_recuperado,fecha_reporte_web,asintomatico,tiempo recuperacion,tiempo muerte
+2020-03-24T00:00:00.000,13001,Cartagena de Indias,Cartagena D.T. y C.,HOSPITAL UCI,49,F,EN ESTUDIO,GRAVE,Colombia,2020-03-18,NaT,2020-03-30T00:00:00.000,NaT,2020-03-30T00:00:00.000,0,,
+2020-03-27T00:00:00.000,41001,Neiva,Huila,HOSPITAL UCI,47,M,EN ESTUDIO,GRAVE,Colombia,2020-03-23,NaT,2020-04-01T00:00:00.000,NaT,2020-04-01T00:00:00.000,0,,
+2020-04-05T00:00:00.000,47001,Santa Marta,Santa Marta D.T. y C.,HOSPITAL UCI,47,M,RELACIONADO,GRAVE,Colombia,2020-04-03,NaT,2020-04-09T00:00:00.000,NaT,2020-04-09T00:00:00.000,0,,
+2020-04-02T00:00:00.000,8001,Barranquilla,Barranquilla D.E.,HOSPITAL UCI,45,M,RELACIONADO,GRAVE,Colombia,2020-03-26,NaT,2020-04-11T00:00:00.000,NaT,2020-04-11T00:00:00.000,0,,
+2020-04-24T00:00:00.000,52001,Pasto,Nariño,HOSPITAL UCI,47,M,EN ESTUDIO,GRAVE,Colombia,2020-04-17,NaT,2020-05-01T00:00:00.000,NaT,2020-05-01T00:00:00.000,0,,
+2020-04-26T00:00:00.000,76001,Cali,Valle del Cauca,HOSPITAL UCI,47,M,EN ESTUDIO,GRAVE,Colombia,2020-04-22,NaT,2020-05-02T00:00:00.000,NaT,2020-05-02T00:00:00.000,0,,

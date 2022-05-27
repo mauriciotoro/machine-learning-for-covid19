@@ -1,0 +1,4 @@
+fecha de notificacion,codigo_divipola,ciudad,departamento,atencion,edad,sexo,tipo,estado,pais de procedencia,fis,fecha_de_muerte,Fecha de diagnóstico,fecha_recuperado,fecha_reporte_web,asintomatico,tiempo recuperacion,tiempo muerte
+2020-03-31T00:00:00.000,52356,Ipiales,Nariño,HOSPITAL UCI,24,M,EN ESTUDIO,GRAVE,Colombia,2020-03-28,NaT,2020-04-11T00:00:00.000,NaT,2020-04-11T00:00:00.000,0,,
+2020-04-14T00:00:00.000,66170,Dosquebradas,Risaralda,HOSPITAL UCI,22,F,RELACIONADO,GRAVE,Colombia,2020-04-02,NaT,2020-04-17T00:00:00.000,NaT,2020-04-17T00:00:00.000,0,,
+2020-04-29T00:00:00.000,13001,Cartagena de Indias,Cartagena D.T. y C.,HOSPITAL UCI,22,M,EN ESTUDIO,GRAVE,Colombia,2020-04-24,NaT,2020-05-02T00:00:00.000,NaT,2020-05-02T00:00:00.000,0,,

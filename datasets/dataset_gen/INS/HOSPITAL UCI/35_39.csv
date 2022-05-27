@@ -1,0 +1,4 @@
+fecha de notificacion,codigo_divipola,ciudad,departamento,atencion,edad,sexo,tipo,estado,pais de procedencia,fis,fecha_de_muerte,Fecha de diagnóstico,fecha_recuperado,fecha_reporte_web,asintomatico,tiempo recuperacion,tiempo muerte
+2020-03-27T00:00:00.000,76001,Cali,Valle del Cauca,HOSPITAL UCI,36,M,RELACIONADO,GRAVE,Colombia,2020-03-12,NaT,2020-04-07T00:00:00.000,NaT,2020-04-07T00:00:00.000,0,,
+2020-04-04T00:00:00.000,73001,Ibagué,Tolima,HOSPITAL UCI,39,M,EN ESTUDIO,GRAVE,Colombia,2020-03-27,NaT,2020-04-11T00:00:00.000,NaT,2020-04-11T00:00:00.000,0,,
+2020-04-22T00:00:00.000,76001,Cali,Valle del Cauca,HOSPITAL UCI,36,M,EN ESTUDIO,GRAVE,Colombia,2020-04-18,NaT,2020-04-26T00:00:00.000,NaT,2020-04-26T00:00:00.000,0,,

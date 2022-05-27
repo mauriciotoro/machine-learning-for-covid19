@@ -1,0 +1,12 @@
+jupyter==1.0.0
+pandas==1.0.3
+seaborn==0.10.0
+sodapy==2.1.0
+plotly==4.5.4
+country-list==0.1.5
+unidecode==1.1.1
+jupyter-contrib-nbextensions==0.5.1
+xlrd==1.2.0
+ppscore==0.0.2
+scikit-learn==0.22.2.post1
+openpyxl==3.0.3

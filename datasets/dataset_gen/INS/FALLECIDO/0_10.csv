@@ -1,0 +1,4 @@
+fecha de notificacion,codigo_divipola,ciudad,departamento,atencion,edad,sexo,tipo,estado,pais de procedencia,fis,fecha_de_muerte,Fecha de diagnóstico,fecha_recuperado,fecha_reporte_web,asintomatico,tiempo recuperacion,tiempo muerte
+2020-03-25T00:00:00.000,19001,Popayán,Cauca,FALLECIDO,3,F,RELACIONADO,FALLECIDO,Colombia,2020-03-15,2020-03-24,2020-04-06T00:00:00.000,NaT,2020-04-06T00:00:00.000,0,,9.0
+2020-04-12T00:00:00.000,25,Cundinamarca,Cundinamarca,FALLECIDO,0,M,EN ESTUDIO,FALLECIDO,Colombia,2020-04-03,2020-04-21,2020-04-20T00:00:00.000,NaT,2020-04-20T00:00:00.000,0,,18.0
+2020-04-23T00:00:00.000,15646,Samacá,Boyacá,FALLECIDO,0,F,EN ESTUDIO,FALLECIDO,Colombia,2020-04-23,2020-04-29,2020-05-01T00:00:00.000,NaT,2020-05-01T00:00:00.000,0,,6.0

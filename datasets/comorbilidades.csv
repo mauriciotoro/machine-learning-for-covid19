@@ -1,0 +1,326 @@
+fecha;genero;edad;ciudad;texto_comorb;comorbilidades
+26/03; Hombre;84;Bogotá;;
+26/03; Mujer;59;Bogotá;;
+29/03; Hombre;73;Bogotá;;
+29/03; Mujer;57;Bogotá;;
+29/03; Mujer;33;Cartagena;;
+29/03; Hombre;36;Cali; hipertenso obeso y fumador;hta,obesidad,fumador
+30/03; Mujer;63;Neiva;;
+30/03; Hombre;68;Cali;;
+31/03; Hombre;50;Atlántico; con hipertension;hta
+31/03; Hombre;62;Pereira; con problemas de obesidad;obesidad
+01/04; Mujer;19;Cali; que presentaba secuela de hipoxia;hipoxia
+02/04; Mujer;81;Zipaquirá; con hipertension arterial cardiopatia hipertensiva y diabetes;hta,cardiovascular,diabetes
+02/04; Hombre;33;Bogotá;;
+03/04; Hombre;25;Barranquilla; quien padecia sindrome de prader willi asma obesidad y retardo cognitivo ;obesidad,enfermedad respiratoria
+03/04; Hombre;72;Bogotá; con enfermedad renal cronica e hipotiroidismo ;enfermedad renal,hipotiroidismo
+03/04; Mujer;48;Bogotá; ;
+03/04; Mujer;67;Bogotá; con antecedentes de artritis reumatoidea e hipotiroidismo;hipotiroidismo
+03/04; Mujer;71;Bogotá; con diabetes y secuelas de ecv;diabetes
+03/04; Hombre;26;Bogotá; con episodio asmatico exposicion a resinas desde hace 6 meses exposicion a humo de lena durante 18 anos y tabaquismo inactivo;fumador,enfermedad respiratoria
+04/04; Mujer;67;Cundinamarca; quien presentaba obesidad y diabetes ;obesidad,diabetes
+04/04; Hombre;65;Cundinamarca; con enfermedad cardiaca ;cardiovascular
+04/04; Hombre;77;Barranquilla; con hipertension arterial;hta
+04/04; Hombre;84;Tunja; con enfermedad coronaria ;cardiovascular
+04/04; Hombre;72;Bogotá; con hipotiroidismo ;hipotiroidismo
+04/04; Mujer;74;Cúcuta; quien presentaba hipertension arterial hipotiroidismo diabetes falla cardiaca obesidad dislipidemia y epoc;hta,obesidad,cardiovascular,diabetes,enfermedad respiratoria,hipotiroidismo
+04/04; Hombre;64;Montería; con diabetes;diabetes
+05/04; Hombre;85;Bogotá; con hipertension arterial y diabetes ;hta,diabetes
+05/04; Mujer;63;Bogotá;;
+05/04; Hombre;43;Atlántico; con obesidad;obesidad
+06/04; Mujer;3;Popayán; quien padecia sindrome de alagille ;
+06/04; Mujer;94;Villavicencio; con hipertension arterial y alzheimer ;hta
+06/04; Hombre;65;Bogotá; con hipotiroidismo ;hipotiroidismo
+06/04; Hombre;72;Bogotá; con epilepsia alcoholismo y tabaquismo ;fumador,alcoholismo
+06/04; Mujer;91;Medellín; oxigeno dependiente hipertension aneurisma cerebral y parkinson;hta,enfermedad respiratoria
+07/04; Mujer;53;Bogotá; quien presentaba obesidad ;obesidad
+07/04; Mujer;83;Neiva; con hta cardiopatia isquemica y angioplastia de dos vasos en 2009 ;hta,cardiovascular
+07/04; Mujer;85;Cali; con hta diabetes y obesidad;hta,obesidad,diabetes
+07/04; Hombre;73;Bogotá; con epoc;enfermedad respiratoria
+08/04; Mujer;72;Bogotá; con hipertension pulmonar ;hta
+08/04; Mujer;74;Córdoba; con epoc hta enfermedad cardiaca y obesidad ;hta,obesidad,cardiovascular,enfermedad respiratoria
+08/04; Mujer;79;Quindío; con diabetes;diabetes
+08/04; Hombre;65;Santa-Marta; con epoc y hta;hta,enfermedad respiratoria
+09/04; Hombre;73;Pasto;  sin antecedentes;
+09/04; Mujer;59;Cali;  tromboembolismo pulmonar enfermedad obstructiva cronica descompensada tipo enfisema hipertension arterial cancer de mama hace 19 anos;hta,cancer
+09/04; Hombre;71;Bogotá;  epoc mieloma fumador;fumador,enfermedad respiratoria
+09/04; Hombre;86;Bogotá;  epoc;enfermedad respiratoria
+09/04; Hombre;62;Nariño;  procedimiento quirurgico cistostomia suprapubica;
+09/04; Mujer;37;Bogotá;  sin antecedentes;
+09/04; Hombre;68;Cartagena;  sin antecedentes;
+09/04; Hombre;58;Cartagena;  hipertension;hta
+09/04; Hombre;98;Santander;;
+09/04; Hombre;80;Cali;  diabetes;diabetes
+09/04; Mujer;96;Santa-Marta;  hta;hta
+09/04; Hombre;66;Cartagena;  hta;hta
+09/04; Hombre;71;Bolívar;  dislipidemia;
+09/04; Hombre;75;Cúcuta;  hta y diabetes;hta,diabetes
+10/04; Mujer;80;Cali;  diabetes acv isquemicos;diabetes
+10/04; Hombre;57;Cali;  diabetes;diabetes
+10/04; Hombre;73;Bogotá;  epoc hta;hta,enfermedad respiratoria
+10/04; Hombre;50;Bogotá;  hta y obesidad;hta,obesidad
+10/04; Mujer;73;Bogotá;  epoc hta y dislipidemia;hta,enfermedad respiratoria
+10/04; Hombre;64;Bogotá;  masa de vias biliares;cancer
+10/04; Mujer;74;Bogotá;  cancer de pulmon;cancer
+10/04; Hombre;62;Villavicencio;  hta enfermedad cardiaca y tabaquismo;hta,fumador,cardiovascular
+10/04; Hombre;70;Pereira;  hta infarto en 2003 posiblemente epoc;hta,enfermedad respiratoria
+10/04; Mujer;75;Santa-Marta;  diabetes no controlada y tabaquismo;fumador,diabetes
+11/04; Hombre;79;Neiva; con tabaquismo ;fumador
+11/04; Hombre;71;Cundinamarca; ;
+11/04; Hombre;54;Caldas; con diabetes ;diabetes
+11/04; Hombre;77;Armenia; con diabetes y hta ;hta,diabetes
+11/04; Hombre;77;Villavicencio; con arritmia supraventicular ;
+11/04; Hombre;72;Nariño; con falla cardiaca;cardiovascular
+11/04; Mujer;89;Cali; con epoc hta acv demencia senil ;hta,enfermedad respiratoria
+11/04; Mujer;60;Cundinamarca; ;
+11/04; Hombre;83;Bogotá; con diabetes ;diabetes
+11/04; Mujer;74;Bogotá; ;
+11/04; Hombre;82;Bogotá; con hipotiroidismo epoc tabaquismo ;fumador,enfermedad respiratoria,hipotiroidismo
+11/04; Hombre;83;Bogotá; con problemas cardiacos ;
+11/04; Mujer;93;Bogotá; con hta fibrilacion auricular epoc;hta,enfermedad respiratoria
+11/04; Hombre;50;Bogotá; con enfermedad cardiaca ;cardiovascular
+11/04; Mujer;91;Caldas; con angina inestable taquicardia supraventicular aproximativa safenectomia histerectomia;
+11/04; Hombre;48;Bogotá; ;
+11/04; Hombre;61;Bogotá; con diabetes y hta ;hta,diabetes
+11/04; Mujer;83;Bogotá; con insuficiencia renal y diabetes ;diabetes,enfermedad renal
+11/04; Hombre;49;Bogotá; con hipotiroidismo;hipotiroidismo
+11/04; Hombre;33;Bogotá; con hipotiroidismo;hipotiroidismo
+12/04; Mujer;68;Cali;  cancer de pulmon timona;cancer
+12/04; Hombre;70;Cartagena;  hta diabetes;hta,diabetes
+12/04; Hombre;55;Cartagena;  hta diabetes;hta,diabetes
+12/04; Mujer;66;Ibagué;  epoc diabetes enfermedad renal cronica (erc);diabetes,enfermedad respiratoria,enfermedad renal
+12/04; Hombre;59;Cali;  diabetes mellitus tipo 2 e hipertension arterial;hta,diabetes
+12/04; Hombre;57;El; espinal (tolima)  hta epoc fumador;hta,fumador,enfermedad respiratoria
+12/04; Hombre;58;Ginebra; (valle)  hta obesidad tabaquismo activo;hta,obesidad,fumador
+12/04; Mujer;57;Bogotá;;
+12/04; Hombre;59;Bogotá;  diabetes;diabetes
+13/04; Mujer;80;Bogotá; con hipotiroidismo y enfermedad cardiaca ;cardiovascular,hipotiroidismo
+13/04; Mujer;76;Cartagena; con hipotiroidismo cancer de colon tratado y obesidad grado ll;obesidad,hipotiroidismo,cancer
+13/04; Hombre;76;Magdalena; quien presentaba enfermedad cardiaca;cardiovascular
+14/04; Hombre;68;Santa-Marta;  enfermedad cardiaca;cardiovascular
+14/04; Hombre;88;El; dovio valle  hta epoc y oxigeno requirente;hta,enfermedad respiratoria
+14/04; Hombre;81;Cali;  hipertension arterial e hipotiroidismo;hta,hipotiroidismo
+14/04; Mujer;68;Cali;  epoc y hta;hta,enfermedad respiratoria
+14/04; Mujer;65;Cali;  en investigacion;
+14/04; Hombre;64;Cali;   hipertension arterial obesidad y tabaquismo;hta,obesidad,fumador
+14/04; Hombre;49;Bogotá;  epoc obesidad y asma;obesidad,enfermedad respiratoria
+14/04; Mujer;71;Bogotá;  hta e hipotiroidismo;hta,hipotiroidismo
+14/04; Hombre;62;Bogotá;  insuficiencia renal;enfermedad renal
+14/04; Mujer;66;Bogotá;  hipotiroidismo;hipotiroidismo
+14/04; Mujer;79;Bogotá;  diabetes;diabetes
+14/04; Mujer;67;Bogotá;  diabetes hta dermatopolimiositis;hta,diabetes
+14/04; Hombre;65;Bogotá;  hta e hipotiroidismo;hta,hipotiroidismo
+14/04; Hombre;20;Barranquilla;  enfermedad cardiaca;cardiovascular
+14/04; Hombre;73;Santa-Marta;  hta;hta
+15/04; Hombre;66;Cali; con hipertension arterial y tabaquismo ;hta,fumador
+15/04; Hombre;57;Cali; con litiasis renal ;enfermedad renal
+15/04; Hombre;59;Cali; con esquizofrenia diabetes y hta;hta,diabetes
+15/04; Hombre;69;Pasto; con tabaquismo;fumador
+16/04; Hombre;61;Buenaventura;  obesidad;obesidad
+16/04; Mujer;55;Palmira;  artritis reumatoidea;
+16/04; Hombre;70;Tumaco;  diabetes;diabetes
+16/04; Hombre;63;Bogotá;  enfermedad cardiaca;cardiovascular
+16/04; Mujer;97;Bogotá;  epoc y hta;hta,enfermedad respiratoria
+16/04; Hombre;76;Bogotá;  hipotiroidismo;hipotiroidismo
+16/04; Hombre;72;Bogotá;  ninguna;
+16/04; Mujer;97;Bogotá;  alzheimer hta y epoc;hta,enfermedad respiratoria
+16/04; Mujer;69;Palmira;  hta y diabetes;hta,diabetes
+16/04; Hombre;77;Peirera;  revascularizacion miocardica con uso de marcapasos hta epoc e hipotiroidismo;hta,enfermedad respiratoria,hipotiroidismo
+16/04; Hombre;67;Villavicencio;  epoc;enfermedad respiratoria
+16/04; Hombre;40;Cali;  trastorno afectivo bipolar extabaquismo y obesidad;obesidad,fumador
+16/04; Hombre;60;Cali; sin ;
+17/04; Hombre;66;Jamundí; valle con hta y herpes zoster ;hta
+17/04; Hombre;62;Bogotá; con epoc y tabaquismo ;fumador,enfermedad respiratoria
+17/04; Hombre;81;Cartagena; con hta diabetes alzheimer y acv ;hta,diabetes
+17/04; Hombre;46;Palmira; con obesidad y hta;hta,obesidad
+17/04; Hombre;62;Cali; ;
+17/04; Hombre;55;Cali; con antecedentes de tabaquismo ;fumador
+17/04; Hombre;64;Cali; con diabetes hta hiperlipidemia e insuficiencia cardiaca ;hta,cardiovascular,diabetes
+17/04; Mujer;72;Santa-Marta; con insuficiencia renal obesidad y enfermedad cardiaca ;obesidad,cardiovascular,enfermedad renal
+17/04; Hombre;60;Cartagena; con vih insuficiencia renal y cancer;enfermedad renal,cancer
+18/04; Hombre;79;Caquetá;  enfermedad renal cronica epoc;enfermedad respiratoria,enfermedad renal
+18/04; Hombre;73;Cali;  hta;hta
+18/04; Mujer;73;Santa-Marta;  enfermedad renal cronica;enfermedad renal
+18/04; Hombre;60;Pereira;  epoc diabetes enfermedad cardiaca obesidad insuficiencia renal fumador;obesidad,fumador,cardiovascular,diabetes,enfermedad respiratoria,enfermedad renal
+18/04; Hombre;57;Cúcuta; sin ;
+18/04; Hombre;81;Cali;  hta;hta
+18/04; Mujer;73;Bogotá;  epoc fumador;fumador,enfermedad respiratoria
+18/04; Hombre;63;Bogotá;  fumador;fumador
+18/04; Mujer;71;Risaralda;  epoc obesidad morbida cardiopatia;obesidad,cardiovascular,enfermedad respiratoria
+18/04; Mujer;44;Cartagena;  obesidad hta;hta,obesidad
+18/04; Hombre;73;Valle;  hta meningitis en la infancia con retardo del neurodesarrollo;hta
+18/04; Mujer;46;Barranco; de loba  diabetes con complicaciones circulatorias perifericas (pie diabetico);cardiovascular,diabetes
+18/04; Hombre;90;Magdalena;  hta uso de marcapasos;hta
+19/04; Hombre;72;Cundinamarca; sin ;
+19/04; Hombre;73;Cali;  hta;hta
+19/04; Hombre;54;Cartagena;  diabetes;diabetes
+19/04; Hombre;76;Cali;  epoc;enfermedad respiratoria
+19/04; Hombre;66;Cali; sin ;
+19/04; Mujer;88;Antioquia;  hipotiroidismo trombosis venosa profunda anticuagulada diabetes mellitus;cardiovascular,diabetes,hipotiroidismo
+19/04; Hombre;92;Bogotá;  epoc;enfermedad respiratoria
+19/04; Mujer;66;Bogotá;  enfermedad cardiaca;cardiovascular
+19/04; Hombre;67;Medellín;  hta meningitis neumonia;hta,enfermedad respiratoria
+19/04; Mujer;89;Bogotá;  hta hipotiroidismo;hta,hipotiroidismo
+19/04; Mujer;89;Bogotá;  epoc obesidad;obesidad,enfermedad respiratoria
+19/04; Mujer;76;Timaná; (huila)  insuficiencia cardiaca cronica epoc cardiopatia isquemica;cardiovascular,enfermedad respiratoria
+19/04; Hombre;69;Isnos; (huila)  hta diabetes mellitus obesidad neoplastia genital;hta,obesidad,diabetes
+20/04; Mujer;46;Riohacha;  diabetes insulinodependiente hta controlada y obesidad;hta,obesidad,diabetes
+20/04; Hombre;70;Bogotá;  hta y diabetes;hta,diabetes
+20/04; Hombre;73;Cali;  epoc y hta;hta,enfermedad respiratoria
+20/04; Hombre;38;Bogotá;  ninguna;
+20/04; Hombre;51;Bogotá;  diabetes enfermedad cardiaca sindrome nefrotico y epoc;cardiovascular,diabetes,enfermedad respiratoria
+20/04; Mujer;65;Bogotá;  diabetes hta y epoc;hta,diabetes,enfermedad respiratoria
+20/04; Mujer;79;Bogotá;  ninguna;
+20/04; Mujer;79;Bogotá;  hta y artritis;hta
+20/04; Hombre;66;Santa-Marta;  ninguna;
+20/04; Hombre;29;Nariño;  histoplasmosis;
+21/04; Mujer;75;Palmira; antecedentes medicos hipertension arterial diabetes y enfermedad coronaria;hta,cardiovascular,diabetes
+21/04; Hombre;66;Cali; antecedentes medicos diabetes y hta;hta,diabetes
+21/04; Mujer;65;Cali; antecedentes medicos epoc tabaquismo y obesidad;obesidad,fumador,enfermedad respiratoria
+21/04; Mujer;66;Cali; antecedentes medicos ninguno;
+21/04; Hombre;88;Bogotá; antecedentes medicos diabetes y hta;hta,diabetes
+21/04; Mujer;74;Cali; antecedentes medicos hipertension arterial asma por hc y epoc;hta,enfermedad respiratoria
+21/04; Hombre;66;Bogotá; antecedentes medicos asma epoc hta monoparesia msi;hta,enfermedad respiratoria
+22/04; Hombre;66;Cali; antecedentes medicos hta;hta
+22/04; Hombre;33;Cali; antecedentes medicos obesidad;obesidad
+22/04; Hombre;60;Bucaramanga; antecedentes medicos enfermedad cardiaca malnutricion;cardiovascular
+22/04; Hombre;85;Barranquilla; antecedentes medicos hta epoc revascularizacion cardiaca exfumador insuficiencia renal cronica;hta,fumador,cardiovascular,enfermedad respiratoria,enfermedad renal
+22/04; Bebé;0;Cundinamarca; antecedentes medicos ductus arteriovenoso persistente y comunicacion interventricular;
+22/04; Mujer;75;Bogotá; antecedentes medicos epoc tabaquismo y obesidad;obesidad,fumador,enfermedad respiratoria
+22/04; Mujer;60;Bogotá; antecedentes medicos dislipidemia glaucoma y trastorno mixto de depresion;
+22/04; Mujer;79;Bogotá; antecedentes medicos enfermedad renal cronica hta diabetes e hipotiroidismo;hta,diabetes,enfermedad renal,hipotiroidismo
+22/04; Hombre;60;Cali; antecedentes medicos diabetes;diabetes
+22/04; Hombre;70;Valledupar; antecedentes medicos hta y epoc;hta,enfermedad respiratoria
+23/04; Hombre;46;Valledupar;  tuberculosis pulmonar vih toxoplasmosis desnutricion proteico calorica severa;
+23/04; Mujer;67;Barranquilla;  hta y diabetes;hta,diabetes
+23/04; Mujer;40;Santa-Marta;  obesidad e hipotiroidismo;obesidad,hipotiroidismo
+23/04; Hombre;58;Bogotá;  epilepsia;
+23/04; Hombre;56;Leticia;  hipertension e insuficiencia renal cronica;hta,enfermedad renal
+23/04; Hombre;78;Cali;  diabetes obesidad hipertension arterial glaucoma y enfermedad coronaria;hta,obesidad,cardiovascular,diabetes
+23/04; Mujer;74;Cartagena;  hipotiroidismo;hipotiroidismo
+23/04; Mujer;65;Cali;  diabetes y hta;hta,diabetes
+23/04; Hombre;94;Cartagena;  hta alzheimer marca pasos por bloqueo av;hta
+24/04; Hombre;83;Cartagena; ( hta y epoc);hta,enfermedad respiratoria
+24/04; Hombre;75;Bolívar; ( enfermedad coronaria acv epoc diabetes y enfermedad renal cronica);cardiovascular,diabetes,enfermedad respiratoria,enfermedad renal
+24/04; Hombre;41;Santa-Marta; ( obesidad morbida);obesidad
+24/04; Mujer;95;Cali; ( epoc fibrilacion auricular cronica hipertension arterial enfermedad cardiaca enfermedad renal cronica hipotiroidismo y demencia);hta,cardiovascular,enfermedad respiratoria,enfermedad renal,hipotiroidismo
+24/04; Hombre;49;Cali; ( obesidad);obesidad
+24/04; Mujer;62;Bogotá; ( cancer de cervix con metastasis a pulmon);cancer
+24/04; Hombre;42;Cartagena; ( cirrosis hepatica);
+24/04; Hombre;87;Lorica; cordoba ( hta y epoc);hta,enfermedad respiratoria
+24/04; Mujer;45;Bogotá; ( obesidad y fumador);obesidad,fumador
+24/04; Mujer;91;Bogotá; ( diabetes y epoc);diabetes,enfermedad respiratoria
+25/04; Hombre;85;Valledupar;  enfermedad renal cronica;enfermedad renal
+25/04; Hombre;78;Bogotá;  epoc enfermedad cardiaca;cardiovascular,enfermedad respiratoria
+25/04; Hombre;79;Leticia;  epoc cardiopatia isquemica tabaquismo;fumador,cardiovascular,enfermedad respiratoria
+25/04; Hombre;80;Antioquia;  epoc hta;hta,enfermedad respiratoria
+25/04; Mujer;91;Bogotá;  hta;hta
+25/04; Hombre;46;Bogotá;  obesidad;obesidad
+25/04; Hombre;66;Cali;  diabetes hta insuficiencia renal;hta,diabetes,enfermedad renal
+25/04; Mujer;82;Cesar;  asma hta cardiopatia hipertensiva;hta,cardiovascular,enfermedad respiratoria
+26/04; Mujer;71;Barranquilla;  enfermedad renal cronica;enfermedad renal
+26/04; Mujer;87;Cartagena;  enfermedad cerebrovascular;
+26/04; Mujer;70;Cartagena;  hta;hta
+26/04; Hombre;52;Cundinamarca;  epoc insuficiencia renal dislipidemia;enfermedad respiratoria,enfermedad renal
+26/04; Mujer;70;Bogotá;  fibrosis pulmonar;
+26/04; Hombre;54;Cundinamarca; sin ;
+26/04; Mujer;87;Cundinamarca;  insuficiencia cardiaca congestiva;cardiovascular
+26/04; Mujer;58;Pereira;  hta tumor cerebral sifilis latente;hta,cancer
+26/04; Hombre;65;Santander; sin ;
+26/04; Mujer;46;Chocó;  epoc;enfermedad respiratoria
+26/04; Hombre;71;Cesar;  hta enfermedad cardiaca insuficiencia cardiaca epoc enfermedad cerebrovascular cirrosis hepatica fumador;hta,fumador,cardiovascular,enfermedad respiratoria
+27/04; Hombre;60;Neiva;  sospecha dengue;
+27/04; Hombre;32;Soacha;  obesidad;obesidad
+27/04; Mujer;75;Santa-Marta;  hta y diabetes;hta,diabetes
+27/04; Hombre;63;Tumaco;  hta y diabetes;hta,diabetes
+27/04; Mujer;86;Bogotá;  demencia senil;
+27/04; Hombre;74;Quimbaya; quindio  acv y epoc;enfermedad respiratoria
+27/04; Hombre;70;Bogotá;  epoc y enfermedad renal cronica;enfermedad respiratoria,enfermedad renal
+27/04; Hombre;74;Medellín;  hta e insuficiencia cardiaca congestiva;hta,cardiovascular
+27/04; Mujer;78;Cúcuta;  epoc y hta;hta,enfermedad respiratoria
+28/04; Hombre;62;Tuluá;  tabaquismo;fumador
+28/04; Hombre;64;Santa-Marta;  hta;hta
+28/04; Hombre;89;Santa-Marta;  hta y obesidad;hta,obesidad
+28/04; Hombre;82;Cali;  diabetes enfermedad cardiaca enfermedad renal cronica;cardiovascular,diabetes,enfermedad renal
+28/04; Mujer;39;Cesar;  asma y vih;enfermedad respiratoria
+28/04; Mujer;74;Cartagena;  hta;hta
+28/04; Mujer;63;Bogotá;  encefalopatia hipoxia isquemica;hipoxia
+28/04; Hombre;37;Bogotá; sin ;
+28/04; Mujer;82;Cali;  hta e hipotiroidismo;hta,hipotiroidismo
+28/04; Mujer;47;Cali;  lupus trasplante renal hta y diabetes;hta,diabetes,enfermedad renal
+28/04; Hombre;78;Nariño;  secuelas de neumopatia intersticial hta;hta
+28/04; Mujer;48;Atlántico;  hta y diabetes;hta,diabetes
+28/04; Hombre;81;Magdalena;  fibrilacion auricular con trastorno de conduccion aurioventricular paroxistico y enfermedad renal;enfermedad renal
+28/04; Hombre;29;Cartagena; sin ;
+28/04; Hombre;76;Atlántico; sin ;
+28/04; Hombre;67;Soacha;  diabetes;diabetes
+29/04; Mujer;44;Tolima;  artritis reumatoidea diabetes hta obesidad e hipotiroidismo;hta,obesidad,diabetes,hipotiroidismo
+29/04; Hombre;50;Bogotá;  enfermedad cardiaca y enfermedad hematologica cronica;cardiovascular
+29/04; Hombre;65;Bogotá;   enfermedad cardiaca;cardiovascular
+29/04; Hombre;64;Bogotá;   fumador;fumador
+29/04; Mujer;76;Magdalena; con hta y epoc;hta,enfermedad respiratoria
+29/04; Hombre;71;Bogotá;  hta;hta
+29/04; Hombre;74;Bogotá;;
+29/04; Hombre;74;Bogotá;;
+30/04; Hombre;29;Cali; con diabetes y obesidad;obesidad,diabetes
+30/04; Hombre;63;Cartagena; con  diabetes;diabetes
+30/04; Hombre;68;Leticia; con hta y diabetes;hta,diabetes
+30/04; Hombre;75;Leticia; con hta y epoc;hta,enfermedad respiratoria
+30/04; Hombre;69;Bogotá; con alcoholismo;alcoholismo
+30/04; Mujer;85;Bogotá; con alzheimer hipotiroidismo e hidrocefalia;hipotiroidismo
+30/04; Mujer;67;Pereira; con hipotiroidismo;hipotiroidismo
+30/04; Hombre;44;Cali; con obesidad;obesidad
+30/04; Mujer;61;Neiva; con insuficiencia renal cronica hta y cardiopatia;hta,cardiovascular,enfermedad renal
+30/04; Mujer;75;Cúcuta; con hta diabetes y epoc;hta,diabetes,enfermedad respiratoria
+30/04; Hombre;24;Bogotá; con leucemia y lisis tumoral;cancer
+30/04; Mujer;64;Cali; con hta y diabetes;hta,diabetes
+30/04; Mujer;66;Cali; con diabetes enfermedad cardiaca insuficiencia renal cronica hta y anemia;hta,cardiovascular,diabetes,enfermedad renal
+30/04; Mujer;58;Barranquilla;;
+30/04; Hombre;67;Barranquilla; con una enfermedad renal cronica;enfermedad renal
+01/05; Mujer;73;Atlántico; sin ;
+01/05; Mujer;76;Bogotá;  fumadora;fumador
+01/05; Hombre;65;Bogotá;  leucemia;cancer
+01/05; Mujer;82;Buenaventura;  hta e insuficiencia renal cronica;hta,enfermedad renal
+01/05; Hombre;71;Bogotá;  insuficiencia cardiaca congestiva;cardiovascular
+01/05; Mujer;81;Cali;  cancer de vulva;cancer
+01/05; Hombre;46;Bogotá;  insuficiencia renal y desnutricion;enfermedad renal
+01/05; Hombre;79;Cali;  enfermedad coronaria hta y endocardigis;hta,cardiovascular
+01/05; Hombre;58;Cartagena; sin ;
+01/05; Hombre;48;Atlántico;  obesidad;obesidad
+01/05; Hombre;72;Ciénaga;  enfermedad cardiaca y obesidad;obesidad,cardiovascular
+01/05; Mujer;64;Bogotá;  linfoma;
+01/05; Hombre;67;Villavicencio;  fumador falla cardiaca y epoc;fumador,cardiovascular,enfermedad respiratoria
+01/05; Hombre;76;Valle;  hta;hta
+01/05; Hombre;71;Leticia; sin ;
+01/05; Mujer;58;Leticia; sin ;
+01/05; Hombre;56;Leticia; sin ;
+01/05; Mujer;62;Bogotá;  hta y obesidad;hta,obesidad
+01/05; Bebé;0;Boyacá;  prematura y oxigeno requirente;enfermedad respiratoria
+01/05; Mujer;59;Bogotá;  falla cardiaca;cardiovascular
+01/05; Hombre;70;Garagoa; boyaca  diabetes y hta;hta,diabetes
+02/05; Mujer;79;Leticia;  hta asma enfermedad renal cronica;hta,enfermedad respiratoria,enfermedad renal
+02/05; Hombre;79;Santander;  accidente cerebrovascular y desnutricion;
+02/05; Hombre;71;Santander;  hta cancer de laringe;hta,cancer
+02/05; Hombre;74;Bogotá;  diabetes;diabetes
+02/05; Hombre;72;Bogotá;  hta;hta
+02/05; Hombre;63;Barranquilla;  hta diabetes;hta,diabetes
+02/05; Mujer;24;Villavicencio;  exfumador;fumador
+02/05; Mujer;95;Bogotá; sin ;
+02/05; Hombre;90;Valle; sin ;
+02/05; Mujer;87;Antioquia;  hta;hta
+03/05; Mujer;64;Leticia;  diabetes;diabetes
+03/05; Hombre;73;Cartagena;  hta cardiopatia isquemica;hta,cardiovascular
+03/05; Mujer;44;Cartagena;  hta diabetes enfermedad cerebrovascular desnutricion proteico-calorica;hta,cardiovascular,diabetes
+03/05; Hombre;73;Barranquilla;  enfermedad cerebrovascular isquemica;cardiovascular
+03/05; Mujer;64;Puerto; colombia (atlantico)  insuficiencia cardiaca;cardiovascular
+03/05; Mujer;83;Barranquilla;  hta epoc;hta,enfermedad respiratoria
+03/05; Mujer;84;Barranquilla;  cancer de mama;cancer
+03/05; Hombre;46;Malambo; (atlantico)  hta asma;hta,enfermedad respiratoria
+03/05; Hombre;73;Cartagena;  insuficiencia cardiaca valvulopatia aortica trombosis venosa profunda;cardiovascular
+03/05; Mujer;64;Tuluá; (valle)  hta diabetes y arritmia cardiaca;hta,cardiovascular,diabetes
+03/05; Hombre;76;Pereira;  enfermedad cardiaca y hta;hta,cardiovascular
+03/05; Mujer;26;Bogotá;  obesidad;obesidad
+03/05; Hombre;77;Bogotá;  aneurisma aorta abdominal y cancer broncogenico;cancer
+03/05; Mujer;80;Cúcuta;  epoc;enfermedad respiratoria
+03/05; Hombre;56;Bogotá; sin ;
+03/05; Mujer;54;Bogotá; sin ;
