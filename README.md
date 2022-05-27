@@ -1,3 +1,7 @@
-# covid19
+# Machine learning to solve problems of Covid-19
 
-Repositorio para el proyecto de CoVid-19 de distintos grupos de investigación de la Universidad Eafit.
+Authors: Miguel Correa, David Betancur, Yullis Quintero, Douglas Ardilla
+
+Other Contributors: Jose Aguilar, Mauricio Toro
+
+
